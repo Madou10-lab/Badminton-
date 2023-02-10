@@ -3,7 +3,7 @@
 - WHEN HAVING FULL MATCH - SPLIT IT INTO RALLIES
 - INPUT VIDEO MUST CONTAIN ONLY THE GAME PLAYED : AN EXAMPLE IS PASSED EXAMPLE.MP4
 
-main.ipynb : final notebook to test all models on insep_dataset
+main.ipynb : final notebook to test all models
 
 	-> this notbeook outputs automatically the final statistics and results video with visual tracks of all parts along with strokes csv file of each player
 
